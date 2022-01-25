@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:id="@+id/bottomSheet">
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/cizgi"
+        android:scaleType="centerCrop"
+        android:layout_gravity="center|top"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center|top"
+        android:text="Not Görüntüleme"
+        android:padding="20dp"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+
+
+    <TextView
+        android:id="@+id/baslik"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Başlık"
+        android:gravity="center"
+        android:padding="20dp"
+        android:textColor="@color/white"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:id="@+id/icerik"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="top"
+        android:hint="İçerik"
+        android:textColor="@color/white"
+        android:padding="20dp"
+        android:textStyle="italic"/>
+
+
+</LinearLayout>

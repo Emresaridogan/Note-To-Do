@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1067111936210",
+    "firebase_url": "https://yes-not-defteri-default-rtdb.firebaseio.com",
+    "project_id": "yes-not-defteri",
+    "storage_bucket": "yes-not-defteri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067111936210:android:475fc462b41e61c30ebd0b",
+        "android_client_info": {
+          "package_name": "com.yes.notdefteri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067111936210-je9dvhd8koa2sfk9lhnhocir9ft6165h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpwXLB8EeANEvy-tNuzZ6pxnixLCvwkfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067111936210-je9dvhd8koa2sfk9lhnhocir9ft6165h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
