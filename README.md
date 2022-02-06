@@ -1,4 +1,4 @@
-# Note-To-Do-App :call_me_hand:
+# Note & To Do :call_me_hand:
 
  Splash Screen | Login | Register
  -----| ----------- | ------
